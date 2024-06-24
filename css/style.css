@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #F3BD00;
+    --primary: #EC2024;
     --secondary: #757575;
     --light: #F3F6F8;
-    --dark: #0C2B4B;
+    --dark: #000;
 }
 
 .py-6 {
@@ -348,4 +348,26 @@
 
 .copyright a:hover {
     color: var(--light);
+}
+
+
+
+/* my css */
+.bg-black{
+    background-color: black !important;
+}
+.button-bg-red{
+    background-color: #EC2024 !important;
+}
+.button-color-white{
+    color: white !important;
+}
+.color-white{
+    color: white !important;
+}
+.color-red{
+    color:#EC2024 !important;
+}
+.color-black{
+    color:#000;
 }
