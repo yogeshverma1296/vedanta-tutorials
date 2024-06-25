@@ -192,19 +192,19 @@
 /* For mobile: */
 @media (max-width: 480px) {
     .page-header {
-        background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .3)), url(/img/vedanta-front-webp-480.webp);
+        background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .3)), url(https://yogeshverma1296.github.io/vedanta-tutorials/img/vedanta-front-webp-480.webp);
     }
 }
 /* For tablets: */
 @media (min-width: 481px) and (max-width: 1024px) {
     .page-header {
-        background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .3)), url(/img/vedanta-front-webp-1078.webp);
+        background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .3)), url(https://yogeshverma1296.github.io/vedanta-tutorials/img/vedanta-front-webp-1078.webp);
     }
 }
 /* For desktop devices: */
 @media (min-width: 1025px) {
     .page-header {
-        background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .3)), url(/img/vedanta-front-webp-1378.webp);
+        background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .3)), url(https://yogeshverma1296.github.io/vedanta-tutorials/img/vedanta-front-webp-1378.webp);
    }
 }
 
