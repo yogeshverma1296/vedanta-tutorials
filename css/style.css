@@ -391,3 +391,11 @@
 .color-black{
     color:#000;
 }
+.btn-outline-red {
+    color: #EC2024;
+    border-color: #EC2024;
+}
+.btn-outline-red:hover{
+    color:white;
+    background-color: #EC2024;
+}
